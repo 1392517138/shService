@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sh-framework-api" />
+        <module name="sh-framework-common" />
+        <module name="sh-framework-model" />
+        <module name="sh-framework-utils" />
+        <module name="sh-govern-center" />
+        <module name="sh-service-data" />
+        <module name="sh-service-info" />
+        <module name="sh-service-info-client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sh-framework-api" target="1.8" />
+      <module name="sh-framework-common" target="1.8" />
+      <module name="sh-framework-model" target="1.8" />
+      <module name="sh-framework-parent" target="1.8" />
+      <module name="sh-framework-utils" target="1.8" />
+      <module name="sh-govern-center" target="1.8" />
+      <module name="sh-service-data" target="1.8" />
+      <module name="sh-service-info" target="1.8" />
+      <module name="sh-service-info-client" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

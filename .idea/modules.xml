@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sh-framework-api/sh-framework-api.iml" filepath="$PROJECT_DIR$/sh-framework-api/sh-framework-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sh-framework-common/sh-framework-common.iml" filepath="$PROJECT_DIR$/sh-framework-common/sh-framework-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sh-framework-model/sh-framework-model.iml" filepath="$PROJECT_DIR$/sh-framework-model/sh-framework-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sh-framework-parent/sh-framework-parent.iml" filepath="$PROJECT_DIR$/sh-framework-parent/sh-framework-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sh-framework-utils/sh-framework-utils.iml" filepath="$PROJECT_DIR$/sh-framework-utils/sh-framework-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sh-govern-center/sh-govern-center.iml" filepath="$PROJECT_DIR$/sh-govern-center/sh-govern-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sh-service-data/sh-service-data.iml" filepath="$PROJECT_DIR$/sh-service-data/sh-service-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sh-service-info/sh-service-info.iml" filepath="$PROJECT_DIR$/sh-service-info/sh-service-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sh-service-info-client/sh-service-info-client.iml" filepath="$PROJECT_DIR$/sh-service-info-client/sh-service-info-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shService.iml" filepath="$PROJECT_DIR$/.idea/shService.iml" />
+    </modules>
+  </component>
+</project>

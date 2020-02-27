@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$/sh-framework-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sh-framework-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sh-framework-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sh-framework-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sh-framework-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sh-govern-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sh-service-data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sh-service-info" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sh-service-info-client" charset="UTF-8" />
+  </component>
+</project>
